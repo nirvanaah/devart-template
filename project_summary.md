@@ -11,6 +11,7 @@ To be honest, using the most complex algorithim to create an image of a frog in 
 
 [Node-OpenCV](https://github.com/peterbraden/node-opencv "Node-OpenCV")
 
-http://www.oocities.org/southbeach/sands/9432/Dali.jpg
+## What I'm Hoping to Achieve
+Below, is a painting of Salvador Dali's Abarham Linconl portrait. If you keep looking, you fill find out that there is more then one message that entails in the painting. What I'm hoping to achieve is to create a platform so that anyone can have their own portrait or "selfie" that looks like the picture below. 
 
 ![Example Image](http://www.oocities.org/southbeach/sands/9432/Dali.jpg "Example Image")
