@@ -22,7 +22,7 @@ function test() {
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](https://github.com/peterbraden/node-opencv "Node-OpenCV")
+[Node-OpenCV](https://github.com/peterbraden/node-opencv "Node-OpenCV")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
