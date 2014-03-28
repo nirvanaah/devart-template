@@ -1,4 +1,4 @@
-# Project Title
+# Ecstasy
 Insert the name of your project
 
 ## Authors
