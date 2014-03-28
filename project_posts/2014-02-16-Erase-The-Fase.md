@@ -5,5 +5,3 @@ function erase_the_fase(thefase) {
 // Takes the image and makes whatever is inside the pixelated-border of the face transparent.
 }
 ```
-
-Now we can make some real magic happen.
