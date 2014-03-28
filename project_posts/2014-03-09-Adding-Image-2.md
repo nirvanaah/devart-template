@@ -1,5 +1,3 @@
-Say the user chose to put Image1 at the top and decided to make it small...
+Okay, so, we chose to put a the picture of a little boy(possibly a baby picture of yourself) at the top of our forehead giving the perception that he is far far away by scaling the image to a small small size. 
 
-and lets say that Image1 is a picture of a boy.
-
-So after we layer it with our selfie, it will look like a little boy is at the top of our forehead however, is far far away because we scale the size of image1(the pictures with the boy) to a small size.
+Now, we take another image, say for example the picture of a pear tree and make it big and put him at the bottom of our face near our chin area (opposite values of Image1, if you haven't noticed).
