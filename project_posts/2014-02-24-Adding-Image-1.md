@@ -7,3 +7,5 @@ So:
 ```
 Image1 = (TOP||BOTTOM && SMALL||BIG)
 ```
+
+Alright!
