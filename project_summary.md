@@ -10,3 +10,7 @@ To be honest, using the most complex algorithim to create an image of a frog in 
 ## Links to External Libraries
 
 [Node-OpenCV](https://github.com/peterbraden/node-opencv "Node-OpenCV")
+
+http://www.oocities.org/southbeach/sands/9432/Dali.jpg
+
+![Example Image](http://www.oocities.org/southbeach/sands/9432/Dali.jpg "Example Image")
