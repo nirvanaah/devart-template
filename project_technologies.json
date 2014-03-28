@@ -1,16 +1,16 @@
 {
     "technologies": {
-        "apis": [
-            "insert apis"
-        ],
         "platforms": [
-            "insert platforms"
+            "Android"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Node.js",
+            "Mongodb",
+            "Javascript",
+            "Jquery",
+            "AngularJS"
+            "html"
+            "css"
         ]
-    },
-    "themes": [
-        "insert themes"
-    ]
+    }
 }
